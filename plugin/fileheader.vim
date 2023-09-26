@@ -1,0 +1,1 @@
+nnoremap gh :call g:fileheader#ToggleFileheader()<cr>

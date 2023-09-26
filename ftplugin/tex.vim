@@ -1,0 +1,1 @@
+let g:fileheader#comment_string = '% '
